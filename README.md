@@ -40,5 +40,18 @@
 
 [8086](https://github.com/zahrayousefijamarani/assembly_codes/blob/master/7_8086.asm)
 
+## array sort 
+[mips](https://github.com/zahrayousefijamarani/assembly_codes/blob/master/3.asm)
+gnome sort , merge sort , insertion sort
+
+## fibonacci
+[mips](https://github.com/zahrayousefijamarani/assembly_codes/blob/master/1.asm)
+### with stack 
+[mips](https://github.com/zahrayousefijamarani/assembly_codes/blob/master/4.asm)
+
+## prime factorization
+[mips](https://github.com/zahrayousefijamarani/assembly_codes/blob/master/2.asm)
+
+
 
 
