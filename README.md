@@ -7,11 +7,17 @@
 
 ## link list (mips , 8086):
 1 means add at index 0
+
 2 means add at the end
+
 3 means add a after b
+
 4 means delete a 
+
 5 means find index of a
+
 6 means print
+
 [mips](https://github.com/zahrayousefijamarani/assembly_codes/blob/master/4_mips.asm)
 
 [8086](https://github.com/zahrayousefijamarani/assembly_codes/blob/master/4_8086.asm)
