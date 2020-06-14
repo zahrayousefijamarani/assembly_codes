@@ -1,0 +1,20 @@
+include 'emu8086.inc'
+
+    
+ORG    100h
+
+    ;CODE
+    
+    
+           
+    RET
+    ;DATA
+    
+    ;MACRO - PROC
+             
+    DEFINE_PRINT_STRING         
+    DEFINE_SCAN_NUM
+    DEFINE_PRINT_NUM
+    DEFINE_PRINT_NUM_UNS  ; required for print_num.
+    
+    END
